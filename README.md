@@ -1,4 +1,4 @@
-# Pixar-Films
+<img width="1821" height="723" alt="image" src="https://github.com/user-attachments/assets/40d64364-372c-445a-a14f-d3ca8e99ce6a" /># Pixar-Films
 Built interactive Tableau dashboards using an Excel movie dataset to analyze film ratings, box office performance, audience scores, and profitability metrics.
 
 **Project Objective**
@@ -30,5 +30,25 @@ To evaluate the relationships between movie ratings, budgets, revenues, and audi
 
 1. Film Distribution
    <img width="1806" height="727" alt="image" src="https://github.com/user-attachments/assets/150afb00-c962-4dd3-af9a-4628edfb7aad" />
+
+2. Box Office Performance
+   <img width="1812" height="735" alt="image" src="https://github.com/user-attachments/assets/fe3e748f-46b5-4661-a7a4-d38e5d629564" />
+
+3. Film Ratings
+   <img width="1823" height="738" alt="image" src="https://github.com/user-attachments/assets/c97ad5dc-cb90-410a-9e65-50c2c894893a" />
+
+4. Runtime Distribution
+   <img width="1802" height="725" alt="image" src="https://github.com/user-attachments/assets/05cc898b-fbef-455d-a8f1-ad49170b96a4" />
+
+5. Film Efficiency
+   <img width="1821" height="723" alt="image" src="https://github.com/user-attachments/assets/584c6ef0-ed6c-474a-b7e1-aad18e1f9487" />
+
+6. Release Timelines and Trends
+   <img width="1823" height="737" alt="image" src="https://github.com/user-attachments/assets/c6ce0106-12ee-4711-8afe-cea15dd5badc" />
+
+
+
+
+
 
 
